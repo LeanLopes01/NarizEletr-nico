@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.sqlite3
+*.log
+build/
+dist/
+Output/
+*.exe
+*.zip
+.env

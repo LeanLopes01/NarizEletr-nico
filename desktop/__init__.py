@@ -1,0 +1,1 @@
+"""Desktop do Nariz Eletronico."""
